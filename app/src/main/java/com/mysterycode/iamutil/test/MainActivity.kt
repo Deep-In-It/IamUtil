@@ -1,7 +1,8 @@
-package com.mysterycode.iamutil
+package com.mysterycode.iamutil.test
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.mysterycode.iamutil.R
 
 class MainActivity : AppCompatActivity() {
 
