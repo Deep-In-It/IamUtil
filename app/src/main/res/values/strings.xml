@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">IamUtil</string>
+    <string name="log_util">LogUtil Text</string>
+    <string name="sp_util">SharePreferenceUtil</string>
 </resources>
